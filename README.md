@@ -12,16 +12,11 @@ Main features
 8. Simplifying everything.
 
 Place in the content folder: 
-AUDIO needs to be redownloaded:
 
-https://static.termer.net/download/bocorr9zsa/AUDIO.zip
+[AUDIO](https://static.termer.net/download/bocorr9zsa/AUDIO.zip)
 
-and franks slash pack, and MATERIALS: 
-https://static.termer.net/download/ppaadtp6qa/ARCADE%20drop%20in%20content%20slash%20MISSIONS.zip
+[franks slash pack, and MATERIALS.](https://static.termer.net/download/ppaadtp6qa/ARCADE%20drop%20in%20content%20slash%20MISSIONS.zip)
 
-and stylizednaturepack: 
+[stylizednaturepack.](https://static.termer.net/download/igq9xalvm9/StylizedNatureVol2.zip)
 
-https://static.termer.net/download/igq9xalvm9/StylizedNatureVol2.zip
-
-and MISSIONS/ARCADE if you really want it:
-https://static.termer.net/download/ppaadtp6qa/ARCADE%20drop%20in%20content%20slash%20MISSIONS.zip
+[MISSIONS/ARCADE if you really want it.](https://static.termer.net/download/ppaadtp6qa/ARCADE%20drop%20in%20content%20slash%20MISSIONS.zip)
